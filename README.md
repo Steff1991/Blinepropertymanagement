@@ -1,7 +1,4 @@
-rulprasath Ranganathan
-22:13 (5 minutes ago)
-to me
-
+Architecture
 +---------------------+
 |        User         |
 +---------------------+
